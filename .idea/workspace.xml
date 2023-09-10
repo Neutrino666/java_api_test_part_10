@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fecb56e-6d33-43a7-b340-5e0668e1ea6a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Work/TestingClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/AssumptionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/FactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/TestsOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/http_client/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/rest_assured/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/url_connection/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/addNewPet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/addProjectPet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/addTest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/addUser.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/deleteTest.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2UqQC1y1ONFgGgdUgVv3CXhSwuA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java/java_api/java_api_test_part_10&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\java_api\java_api_test_part_10\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Pet.test6">
+    <configuration name="Pet.test2 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_api_test_part_10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.rest_assured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.rest_assured" />
+      <option name="MAIN_CLASS_NAME" value="Tests.rest_assured.Pet" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pet.test3 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_api_test_part_10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.rest_assured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.rest_assured" />
+      <option name="MAIN_CLASS_NAME" value="Tests.rest_assured.Pet" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pet.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_api_test_part_10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.rest_assured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.rest_assured" />
+      <option name="MAIN_CLASS_NAME" value="Tests.rest_assured.Pet" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pet.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_api_test_part_10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.rest_assured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.rest_assured" />
+      <option name="MAIN_CLASS_NAME" value="Tests.rest_assured.Pet" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pet.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_api_test_part_10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.rest_assured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.rest_assured" />
+      <option name="MAIN_CLASS_NAME" value="Tests.rest_assured.Pet" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Pet.test2 (1)" />
+      <item itemvalue="JUnit.Pet.test3 (1)" />
+      <item itemvalue="JUnit.Pet.test4" />
+      <item itemvalue="JUnit.Pet.test5" />
+      <item itemvalue="JUnit.Pet.test6" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Pet.test6" />
+        <item itemvalue="JUnit.Pet.test2 (1)" />
+        <item itemvalue="JUnit.Pet.test3 (1)" />
+        <item itemvalue="JUnit.Pet.test4" />
+        <item itemvalue="JUnit.Pet.test5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fecb56e-6d33-43a7-b340-5e0668e1ea6a" name="Changes" comment="" />
+      <created>1693664499660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693664499660</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_api_test_part_10$TestClass_test1.ic" NAME="TestClass.test1 Coverage Results" MODIFIED="1693673075500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Tests.*</FILTER>
+    </SUITE>
+  </component>
+</project>
