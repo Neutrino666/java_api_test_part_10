@@ -1,15 +1,8 @@
 package helpers;
 
-import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.Order;
-import org.junit.jupiter.api.Test;
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.net.HttpURLConnection;
-import java.net.URI;
-import java.net.URL;
 import java.nio.charset.StandardCharsets;
 
 public class Utils {
@@ -30,7 +23,6 @@ public class Utils {
             reader.close();
         } catch (IOException e) {
             throw new RuntimeException(e);
-//            e.printStackTrace();
         }
         return  stringBuilder.toString();
     }

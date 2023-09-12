@@ -1,17 +1,17 @@
 {
   "id": 0,
   "category": {
-    "id": 0,
-    "name": "string"
+    "id": 4,
+    "name": "dog"
   },
-  "name": "doggie",
+  "name": "dogie",
   "photoUrls": [
     "string"
   ],
   "tags": [
     {
       "id": 0,
-      "name": "string"
+      "name": "adorable"
     }
   ],
   "status": "available"
